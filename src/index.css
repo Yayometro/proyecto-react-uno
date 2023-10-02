@@ -1,0 +1,26 @@
+
+
+.card {
+    border-radius: 20px !important;
+    overflow: hidden;
+}
+.card-header{
+    background-color: #faba54;
+}
+.navbar{
+    background-color: #faba54;
+    box-shadow: 2px 2px 15px #a87119;
+}
+
+.btn{
+    padding: 5px !important;
+}
+.btn-remove{
+    background-color: rgb(235, 42, 42);
+}
+.btn-edit{
+    background-color: rgb(55, 149, 255);
+}
+.btn-edit:hover{
+    background-color: rgb(16, 97, 189);
+}
